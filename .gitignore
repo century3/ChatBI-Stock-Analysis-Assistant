@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Runtime / caches
+.wucai/
+workspace/
+image_show/
+temp/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local secrets / IDE
+.idea/
+.vscode/
+*.local
+
+# Optional large exports (keep stock_data.db for demo)
+stock_data_update_*.xlsx
+final_merged_stock_data_*.xlsx

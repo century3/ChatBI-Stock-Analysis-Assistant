@@ -1,0 +1,16 @@
+qwen-agent
+pandas
+openpyxl
+tushare
+akshare
+pymysql
+plotly
+prophet
+numpy
+matplotlib
+statsmodels
+soundfile
+mcp==1.29.0
+gradio==5.23.1
+gradio-client==1.8.0
+modelscope_studio==1.1.7
